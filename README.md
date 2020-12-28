@@ -18,7 +18,7 @@
 - 📫 How to reach me: cbeyzanurkok
 -->
 
-- 🌱 I’m currently learning Game Programming,Modelling 3D
+- 🌱 I’m currently learning Game Programming,3D Modelling 
 
 
 <h3 align="left">Connect with me:</h3>
