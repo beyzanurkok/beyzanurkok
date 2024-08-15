@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/beyzanurkok" alt="profile views"> 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgadonmez&label=Profile%20views&color=0e75b6&style=flat" alt="tolgadonmez" /> </p>
  
 <!--
 
