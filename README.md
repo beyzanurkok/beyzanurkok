@@ -18,14 +18,14 @@
 - 📫 How to reach me: cbeyzanurkok
 -->
 
-- 🌱 I’m currently learning Game Programming,3D Modelling 
+- 🌱 I’m 3D Artist , Game/VR Developer
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/beyzanur-k%C3%B6k-997021131/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beyzanurkok" height="30" width="40" /></a>
-<a href="https://www.instagram.com/beyzanurk5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="beyzanurkok" height="30" width="40" /></a>
-<a href="https://twitter.com/kok_beyzanur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="beyzanurkok" height="30" width="40" /></a>
+<a href="https://www.instagram.com/betaportt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="beyzanurkok" height="30" width="40" /></a>
+<a href="https://twitter.com/1beyzanurkok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="beyzanurkok" height="30" width="40" /></a>
 <a href="mailto:cbeyzanurkok@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="beyzanurkok" height="30" width="40" /></a>
 </p>
 
